@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudentManager</string>
+    <string name="add_new">Add New</string>
+    <string name="save">Save</string>
+    <string name="enter_name">Enter student name</string>
+    <string name="enter_id">Enter student ID</string>
+</resources>
